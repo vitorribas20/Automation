@@ -1,0 +1,2 @@
+Este fluxo pega respostas de um formulário Microsoft Forms baseado em sua ID e o transforma em um cartão para o teams, avisando o aprovador que existe um fluxo aguardando por ele.
+
